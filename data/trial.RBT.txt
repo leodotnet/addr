@@ -1,0 +1,8 @@
+(S (town (XX 龙) (XX 山) (XX 镇) ) (community' (community (XX 慈) (XX 东) ) (road' (redundant (XX 滨) (XX 海) (XX 区) ) (road' (road (XX 海) (XX 丰) (XX 北) (XX 路) ) (roadno (XX 555) (XX 号) ) ) ) ) )
+(S (prov (XX 浙) (XX 江) (XX 省) ) (city' (city (XX 杭) (XX 州) (XX 市) ) (district' (district (XX 滨) (XX 江) (XX 区) ) (poi' (poi (XX 缤) (XX 纷) (XX 北) (XX 苑) ) (houseno' (houseno (XX 25) ) (cellno' (redundant (XX -) ) (cellno' (cellno (XX 2) ) (roomno' (redundant (XX -) ) (roomno (XX 201) ) ) ) ) ) ) ) ) )
+(S (prov (XX 浙) (XX 江) (XX 省) ) (city' (city (XX 杭) (XX 州) (XX 市) ) (district' (district (XX 余) (XX 杭) (XX 区) ) (town' (redundant (XX 杭) (XX 州) (XX 市) ) (town' (redundant (XX 余) (XX 杭) (XX 区) ) (town' (town (XX 闲) (XX 林) (XX 街) (XX 道) ) (road' (road (XX 五) (XX 常) (XX 大) (XX 道) ) (poi' (poi (XX 翡) (XX 翠) (XX 城) ) (subpoi (XX 竹) (XX 苑) ) ) ) ) ) ) ) ) )
+(S (prov (XX 浙) (XX 江) (XX 省) ) (city' (city (XX 杭) (XX 州) (XX 市) ) (district' (district (XX 滨) (XX 江) (XX 区) ) (road' (road (XX 滨) (XX 康) (XX 路) ) (roadno (XX 367) (XX 号) ) ) ) ) )
+(S (city (XX 宁) (XX 波) (XX 市) ) (district' (district (XX 江) (XX 北) (XX 区) ) (road' (road (XX 文) (XX 汇) (XX 路) ) (roadno' (roadno (XX 131) (XX 弄) ) (poi' (poi (XX 8) (XX 号) (XX 门) ) (roomno (XX 308) ) ) ) ) ) )
+(S (city (XX 舟) (XX 山) (XX 市) ) (town' (town (XX 菜) (XX 园) (XX 镇) ) (road' (road (XX 海) (XX 滨) (XX 中) (XX 路) ) (roadno (XX 115) ) ) ) )
+(S (road (XX 八) (XX 卦) (XX 四) (XX 路) ) (poi' (poi (XX 先) (XX 科) (XX 大) (XX 院) ) (houseno' (houseno (XX 二) (XX 栋) ) (floorno (XX 二) (XX 楼) ) ) ) )
+(S (town (XX 稠) (XX 城) (XX 街) (XX 道) ) (community' (community (XX 下) (XX 骆) (XX 宅) ) (poi (XX 新) (XX 塘) (XX 下) (XX 幼) (XX 儿) (XX 园) ) ) )
